@@ -12,6 +12,8 @@ AZ 104 labs https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrat
 
 02a - Manage Subscriptions and RBAC https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC_Entra.html
 
+02b - Lab 02b - Manage Governance via Azure Policy
+
 02c- Grant user access w/ Azure Power Shell  https://learn.microsoft.com/en-us/azure/role-based-access-control/tutorial-role-assignments-user-powershell
 
   TROUBLESHOOTING 02c https://github.com/Elliott-Chavis/02c-troubleshooting
