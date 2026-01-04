@@ -2,6 +2,8 @@
 
 Cloud Shell https://learn.microsoft.com/en-us/azure/cloud-shell/get-started/classic?tabs=azurecli
 
+Get-MgUser PowerShell https://www.alitajran.com/get-mguser/#h-get-user-information
+
 AZ 104 labs https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/
 
 01 - Administer Identity https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Demos/01%20-%20Administer%20Identity.html
