@@ -12,5 +12,7 @@ AZ 104 labs https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrat
 
 02c- Grant user access w/ Azure Power Shell  https://learn.microsoft.com/en-us/azure/role-based-access-control/tutorial-role-assignments-user-powershell
 
-  TROUBLESHOOTING 02c 
+  TROUBLESHOOTING 02c https://github.com/Elliott-Chavis/02c-troubleshooting
+
+  
 
