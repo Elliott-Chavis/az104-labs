@@ -10,5 +10,7 @@ AZ 104 labs https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrat
 
 02a - Manage Subscriptions and RBAC https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02a_Manage_Subscriptions_and_RBAC_Entra.html
 
-02c- Grant a user access to Azure resources using the Azure portal https://learn.microsoft.com/en-us/azure/role-based-access-control/quickstart-assign-role-user-portal
+02c- Grant user access w/ Azure Power Shell  https://learn.microsoft.com/en-us/azure/role-based-access-control/tutorial-role-assignments-user-powershell
+
+  TROUBLESHOOTING 02c 
 
