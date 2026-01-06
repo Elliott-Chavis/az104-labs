@@ -14,9 +14,10 @@ AZ 104 labs https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrat
 
 02b - Lab 02b - Manage Governance via Azure Policy https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_02b-Manage_Governance_via_Azure_Policy.html
 
-02c- Grant user access w/ Azure Power Shell  https://learn.microsoft.com/en-us/azure/role-based-access-control/tutorial-role-assignments-user-powershell
+02c - Grant user access w/ Azure Power Shell  https://learn.microsoft.com/en-us/azure/role-based-access-control/tutorial-role-assignments-user-powershell
 
   TROUBLESHOOTING 02c https://github.com/Elliott-Chavis/02c-troubleshooting
 
+03 - Manage resources by using Resource Manager Templates https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_03b-Manage_Azure_Resources_by_Using_ARM_Templates.html
   
 
