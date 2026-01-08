@@ -24,6 +24,9 @@ AZ 104 labs https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrat
 
 05 - Implement Intersite Connectivity https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_05-Implement_Intersite_Connectivity.html
 
+06 - Implement Network Traffic Management https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_06-Implement_Network_Traffic_Management.html
+
+
 
 
 
