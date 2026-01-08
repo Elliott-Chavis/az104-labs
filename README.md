@@ -22,4 +22,8 @@ AZ 104 labs https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrat
   
 04 - Implement Virtual Networking https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_04-Implement_Virtual_Networking.html
 
+05 - Implement Intersite Connectivity https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_05-Implement_Intersite_Connectivity.html
+
+
+
 
