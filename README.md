@@ -26,6 +26,8 @@ AZ 104 labs https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrat
 
 06 - Implement Network Traffic Management https://microsoftlearning.github.io/AZ-104-MicrosoftAzureAdministrator/Instructions/Labs/LAB_06-Implement_Network_Traffic_Management.html
 
+07 - 
+
 
 
 
